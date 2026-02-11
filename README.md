@@ -117,9 +117,6 @@ jupyter
 ```
 
 ## 👩‍💻 Author
-
 Manasa Kurella
 GitHub: [https://github.com/kmanasagithub](https://github.com/kmanasagithub)
 ⭐ If you like this project, give it a star!
-Just tell me what you want to upgrade 👍
-```
