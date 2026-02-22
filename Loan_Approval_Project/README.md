@@ -65,10 +65,10 @@ Multiple classification models were trained and evaluated:
    cd ML_Projects/Loan_Approval_Project
   ```
 2. **Create a virtual environment (optional but recommended)**
-   ```bash
-    python -m venv venv
-    source venv/bin/activate        # On Windows: venv\Scripts\activate
-  ```
+    ```bash
+     python -m venv venv
+     source venv/bin/activate        # On Windows: venv\Scripts\activate
+    ```
 3. **Install dependencies**
    ```bash
      pip install -r requirements.txt
@@ -79,17 +79,17 @@ Multiple classification models were trained and evaluated:
    ```
 ---
 
-📦 Requirements
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
+### 📦 Requirements
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
 
 ---
 
-💡 Key Insights
-Credit History is the strongest predictor of loan approval.
-Applicants with higher combined income have a significantly better approval rate.
-Semi-urban property area applicants show slightly higher approval rates.
-Handling class imbalance improved model recall for rejected loans.
+### 💡 Key Insights
+- Credit History is the strongest predictor of loan approval.
+- Applicants with higher combined income have a significantly better approval rate.
+- Semi-urban property area applicants show slightly higher approval rates.
+- Handling class imbalance improved model recall for rejected loans.
