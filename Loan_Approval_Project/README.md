@@ -63,12 +63,12 @@ Multiple classification models were trained and evaluated:
    ```bash
    git clone https://github.com/kmanasagithub/ML_Projects.git
    cd ML_Projects/Loan_Approval_Project
-  ```
+   ```
 2. **Create a virtual environment (optional but recommended)**
-    ```bash
-     python -m venv venv
-     source venv/bin/activate        # On Windows: venv\Scripts\activate
-    ```
+  ```bash
+  python -m venv venv
+  source venv/bin/activate        # On Windows: venv\Scripts\activate
+  ```
 3. **Install dependencies**
    ```bash
      pip install -r requirements.txt
