@@ -13,7 +13,7 @@ Financial institutions receive thousands of loan applications daily. Manual eval
 
 ## 📊 Dataset
 
-The dataset contains information about loan applicants including:
+The dataset contains information about loan applicants including: 
 
 | Feature | Description |
 |---|---|
