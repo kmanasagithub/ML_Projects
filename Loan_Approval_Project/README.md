@@ -30,6 +30,13 @@ The dataset contains information about loan applicants including:
 | `Property_Area` | Urban / Semi-Urban / Rural |
 | `Loan_Status` | **Target** — Y (Approved) / N (Rejected) |
 
+You can download a similar **Loan Approval Prediction Dataset** from Kaggle:
+
+🔗 **Kaggle Dataset:**  
+https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset :contentReference[oaicite:0]{index=0}
+
+This dataset includes relevant features such as credit score, income details, loan amount and the target label `"Loan_Status"`.
+
 ---
 
 ## 🔍 Workflow
