@@ -1,6 +1,6 @@
 # ❤️ Heart Disease Prediction ML Project
 
-A machine learning-powered system that predicts the **likelihood of heart disease** based on a set of clinical and health indicators. The model is trained on a well-known heart disease dataset and can be used to evaluate patient risk quickly and accurately. :contentReference[oaicite:1]{index=1}
+A machine learning-powered system that predicts the **likelihood of heart disease** based on a set of clinical and health indicators. The model is trained on a well-known heart disease dataset and can be used to evaluate patient risk quickly and accurately. 
 
 ---
 ## 🌐 Live Demo
@@ -15,7 +15,7 @@ Use this interface to input health parameters and get a real-time prediction of 
 
 ## 🧠 Project Overview
 
-Heart disease remains one of the leading causes of death globally. This project uses a supervised machine learning model to classify whether a person is likely to have heart disease based on input features such as age, blood pressure, cholesterol, etc. The model learns from historical healthcare data and uses patterns in the data to make predictions. :contentReference[oaicite:1]{index=1}
+Heart disease remains one of the leading causes of death globally. This project uses a supervised machine learning model to classify whether a person is likely to have heart disease based on input features such as age, blood pressure, cholesterol, etc. The model learns from historical healthcare data and uses patterns in the data to make predictions. 
 
 The application:
 
@@ -29,7 +29,7 @@ The system is built using Python, scikit-learn for model training, and Streamlit
 
 ## 🧠 How It Works
 
-1. **Data Collection & Exploration** – Load and inspect a structured heart disease dataset (e.g., features like age, cholesterol, blood pressure, etc.). :contentReference[oaicite:3]{index=3}  
+1. **Data Collection & Exploration** – Load and inspect a structured heart disease dataset (e.g., features like age, cholesterol, blood pressure, etc.) 
 2. **Preprocessing** – Handle missing values, encode categorical fields, scale/normalize data.  
 3. **Model Training** – Train one or more machine learning models (e.g., Logistic Regression).  
 4. **Evaluation** – Use metrics such as accuracy, confusion matrix, and F1 score to evaluate performance.  
