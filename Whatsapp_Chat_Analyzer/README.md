@@ -25,14 +25,14 @@ Such chat analytics help uncover **communication patterns, engagement levels, an
 
 ## 🧠 Features
 
-✅ Upload WhatsApp exported `.txt` chat file
-✅ User-wise or Overall chat analysis
-✅ Interactive statistics dashboard
-✅ Monthly & Daily timeline graphs
-✅ Activity heat insights (day / month wise)
-✅ WordCloud visualization
-✅ Emoji frequency distribution
-✅ Stop-word filtering (supports English + Telugu-ish chat text)
+- ✅ Upload WhatsApp exported `.txt` chat file
+- ✅ User-wise or Overall chat analysis
+- ✅ Interactive statistics dashboard
+- ✅ Monthly & Daily timeline graphs
+- ✅ Activity heat insights (day / month wise)
+- ✅ WordCloud visualization
+- ✅ Emoji frequency distribution
+- ✅ Stop-word filtering (supports English + Telugu-ish chat text)
 
 ---
 
