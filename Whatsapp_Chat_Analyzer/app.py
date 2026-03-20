@@ -1,5 +1,5 @@
 import streamlit as st
-import Whatsapp_Chat_Analyzer.preprocessor as preprocessor, helper
+import preprocessor, helper
 import matplotlib.pyplot as plt
 
 # ---------- Page Config ----------
