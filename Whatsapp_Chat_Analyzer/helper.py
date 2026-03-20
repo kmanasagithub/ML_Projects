@@ -2,10 +2,15 @@ from urlextract import URLExtract
 from wordcloud import WordCloud
 import pandas as pd
 from collections import Counter
+from pathlib import Path
 import emoji
 
 extract = URLExtract()
 
+BASE_DIR = Path(__file__).resolve().parent
+file_path = BASE_DIR / "stopwords.txt"
+
+f = open(file_path, "r", encoding="utf-8")
 def fetch_stats(selected_user,df):
     if selected_user != "Overall":
         df = df[df["user"] == selected_user]
@@ -42,7 +47,7 @@ def most_busy_users(df):
     return x,df
 
 def create_wordcloud(selected_user,df):
-    f = open('stopwords.txt','r')
+    f = open(file_path, "r", encoding="utf-8")
     stop_words = f.read()
 
     if selected_user != "Overall":
@@ -64,7 +69,7 @@ def create_wordcloud(selected_user,df):
     return df_wc
 
 def most_common_words(selected_user,df):
-    f = open('stopwords.txt','r')
+    f = open(file_path, "r", encoding="utf-8")
     stop_words = f.read()
 
     if selected_user != "Overall":
