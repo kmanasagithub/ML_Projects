@@ -124,11 +124,6 @@ streamlit run app.py
 ## 👩‍💻 Author
 
 **Manasa Kurella**
-🎓 Final Year Student | AI & ML Enthusiast
+
 🔗 GitHub: https://github.com/kmanasagithub
 
----
-
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub and feel free to contribute 🙂
