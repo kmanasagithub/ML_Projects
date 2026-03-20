@@ -108,17 +108,7 @@ streamlit run app.py
 * Most frequently used words
 * Emoji communication patterns
 * Time-based chat behavior
-
----
-
-## 🌟 Future Enhancements
-
-* Sentiment Analysis on chat messages
-* Hinglish / Telugu-NLP advanced preprocessing
-* Chat topic modeling
-* Real-time dashboard deployment
-* Interactive Plotly visualizations
-
+  
 ---
 
 ## 👩‍💻 Author
