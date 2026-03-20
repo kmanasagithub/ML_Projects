@@ -7,9 +7,9 @@ This project processes chat text files and generates meaningful statistics, time
 ---
 
 ## 🚀 Project Overview
-- Digital conversations generate a huge amount of textual data every day, and **WhatsApp** is one of the most widely used platforms for personal and group communication. 
-- However, the application does not provide built-in analytical features to understand messaging behaviour or interaction trends.
-- This project allows users to **upload exported WhatsApp chat files** and obtain interactive visual insights such as:
+Digital conversations generate a huge amount of textual data every day, and **WhatsApp** is one of the most widely used platforms for personal and group communication. 
+However, the application does not provide built-in analytical features to understand messaging behaviour or interaction trends.
+This project allows users to **upload exported WhatsApp chat files** and obtain interactive visual insights such as:
 
 * 📊 Total messages, words, media, and links
 * 📅 Monthly & daily messaging trends
